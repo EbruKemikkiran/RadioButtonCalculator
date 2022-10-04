@@ -1,0 +1,11 @@
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\bin\Debug\RadioButtonCalculator.exe.config
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\bin\Debug\RadioButtonCalculator.exe
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\bin\Debug\RadioButtonCalculator.pdb
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.csproj.AssemblyReference.cache
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.csproj.SuggestedBindingRedirects.cache
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.Form1.resources
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.Properties.Resources.resources
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.csproj.GenerateResource.cache
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.csproj.CoreCompileInputs.cache
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.exe
+D:\c#\RadioButtonCalculator\RadioButtonCalculator\obj\Debug\RadioButtonCalculator.pdb
